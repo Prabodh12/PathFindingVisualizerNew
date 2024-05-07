@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+.nodes{
+    width: 25px;height: 25px;
+    display: inline-block;
+    outline: 1px solid grey;
+    margin-top: -3px;
+    background-color: white;
+  }
+
+  .navbar {
+    min-height: 80px;
+    display: inline-block;
+    outline: 1px solid grey;
+    margin-top: -3px; 
+  }
+  
+  .navbar-brand {
+    padding: 0 15px;
+    height: 80px;
+    line-height: 80px;
+  }
+  
+.navbar-toggle {
+    margin-top: 23px;
+    padding: 9px 10px !important;
+  }
+
+.container {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
